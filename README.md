@@ -19,10 +19,16 @@ This project performs data analysis and machine learning to predict outcomes usi
 5. Model Evaluation:
    - Accuracy Score
    - Confusion Matrix
+   
+## 🎯 Objective
+To classify iris flower species using machine learning models and compare their performance.
+
+## 📊 Models Used
+- Logistic Regression
+- Random Forest
 
 ## 📈 Results
-- Model Accuracy: XX%
-- Key insights from data visualization
+- Random Forest achieved highest accuracy
 
 ## 📂 Files Included
 - google colab (.ipynb)
